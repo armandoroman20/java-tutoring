@@ -1,12 +1,6 @@
 package mystore;
 
-// Write a class called Computer
-// Computer should define three private instance properties
-// String OS
-// boolean isLaptop
-// String description
-// Write getters and setters for all these properties
-// Write a constructor that accepts a boolean and a String and sets the isLaptop and description properties
+
 
 
 // Write a class called Windows that extends Computer and implements the Product interface
